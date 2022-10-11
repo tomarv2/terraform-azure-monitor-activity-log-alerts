@@ -1,12 +1,12 @@
 <p align="center">
-    <a href="https://github.com/tomarv2/terraform-azurer-monitor-activity-log-alerts/actions/workflows/pre-commit.yml" alt="Pre Commit">
-        <img src="https://github.com/tomarv2/terraform-azurer-monitor-activity-log-alerts/actions/workflows/pre-commit.yml/badge.svg?branch=main" /></a>
+    <a href="https://github.com/tomarv2/terraform-azure-monitor-activity-log-alerts/actions/workflows/pre-commit.yml" alt="Pre Commit">
+        <img src="https://github.com/tomarv2/terraform-azure-monitor-activity-log-alerts/actions/workflows/pre-commit.yml/badge.svg?branch=main" /></a>
     <a href="https://www.apache.org/licenses/LICENSE-2.0" alt="license">
-        <img src="https://img.shields.io/github/license/tomarv2/terraform-azurer-monitor-activity-log-alerts" /></a>
-    <a href="https://github.com/tomarv2/terraform-azurer-monitor-activity-log-alerts/tags" alt="GitHub tag">
-        <img src="https://img.shields.io/github/v/tag/tomarv2/terraform-azurer-monitor-activity-log-alerts" /></a>
-    <a href="https://github.com/tomarv2/terraform-azurer-monitor-activity-log-alerts/pulse" alt="Activity">
-        <img src="https://img.shields.io/github/commit-activity/m/tomarv2/terraform-azurer-monitor-activity-log-alerts" /></a>
+        <img src="https://img.shields.io/github/license/tomarv2/terraform-azure-monitor-activity-log-alerts" /></a>
+    <a href="https://github.com/tomarv2/terraform-azure-monitor-activity-log-alerts/tags" alt="GitHub tag">
+        <img src="https://img.shields.io/github/v/tag/tomarv2/terraform-azure-monitor-activity-log-alerts" /></a>
+    <a href="https://github.com/tomarv2/terraform-azure-monitor-activity-log-alerts/pulse" alt="Activity">
+        <img src="https://img.shields.io/github/commit-activity/m/tomarv2/terraform-azure-monitor-activity-log-alerts" /></a>
     <a href="https://stackoverflow.com/users/6679867/tomarv2" alt="Stack Exchange reputation">
         <img src="https://img.shields.io/stackexchange/stackoverflow/r/6679867"></a>
     <a href="https://twitter.com/intent/follow?screen_name=varuntomar2019" alt="follow on Twitter">
