@@ -20,16 +20,16 @@ resource "azurerm_monitor_action_group" "this" {
 module "monitor_activity_log_alert" {
   source = "../"
 
-  activity_logs_config = {
+  config = {
     "demo_activity_log" = {
       action_group_name   = "test"
       location            = "westus2"
       resource_group_name = "<resource_group_name>"
-      scopes = ["scopes"]
+      scopes              = ["scopes"]
       "criteria" = {
         "Microsoft.Storage/storageAccounts/read" = {
-          resource_id    = "<resource id>"
-          category       = "Recommendation"
+          resource_id = "<resource id>"
+          category    = "Recommendation"
         }
       }
       "action" = {
@@ -41,8 +41,4 @@ module "monitor_activity_log_alert" {
       }
     }
   }
-  # ---------------------------------------------
-  # Note: Do not change teamid and prjid once set.
-  teamid = var.teamid
-  prjid  = var.prjid
 }
